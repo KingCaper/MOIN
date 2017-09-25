@@ -60,28 +60,28 @@ Testnet P2P port: 17997 RPC port: 17996
 
 ![Moin-links](http://i.imgur.com/X43vOaJ.png)
 
- ▲ WEBSITE [discovermoin.com](http://discovermoin.com)
+ ▲ Official Website: [discovermoin.com](http://discovermoin.com)
 
 
-▲ BLOCK EXPLORERS [Mainnet](http://explorer.discovermoin.com/)  |  [Testnet](http://testnet.discovermoin.com/)
+▲ Block Explorers: [Mainnet](http://explorer.discovermoin.com/)  |  [Testnet](http://testnet.discovermoin.com/)
 
 
-▲ MARKET INFORMATION   [CoinMarketCap](http://coinmarketcap.com/currencies/moin/)  |  [CoinGecko](https://www.coingecko.com/en/coins/moin)  |  [Count My Crypto](http://www.countmycrypto.com/)  |  [WorldCoinIndex](http://www.worldcoinindex.com/coin/moin)
+▲ Market Information: [CoinMarketCap](http://coinmarketcap.com/currencies/moin/)  |  [CoinGecko](https://www.coingecko.com/en/coins/moin)  |  [Count My Crypto](http://www.countmycrypto.com/)  |  [WorldCoinIndex](http://www.worldcoinindex.com/coin/moin)
 
 
-▲ FORUMS   [BitcoinTalk](bitcointalk.org/index.php?topic=1237881.0) | [CryptoCurrencyTalk](https://cryptocurrencytalk.com/topic/42679-%F0%9F%94%84%F0%9F%94%84%F0%9F%94%84-%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95-%E2%96%B2-moin-%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95-%F0%9F%94%84%F0%9F%94%84%F0%9F%94%84/)  |  [Bitcoin Garden](https://bitcoingarden.org/forum/index.php?topic=5418.0)  |  [Cryptopia](https://www.cryptopia.co.nz/Forum/Thread/612)
+▲ Forums: [BitcoinTalk](bitcointalk.org/index.php?topic=1237881.0) | [CryptoCurrencyTalk](https://cryptocurrencytalk.com/topic/42679-%F0%9F%94%84%F0%9F%94%84%F0%9F%94%84-%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95-%E2%96%B2-moin-%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95-%F0%9F%94%84%F0%9F%94%84%F0%9F%94%84/)  |  [Bitcoin Garden](https://bitcoingarden.org/forum/index.php?topic=5418.0)  |  [Cryptopia](https://www.cryptopia.co.nz/Forum/Thread/612)
 
 
-▲ MOIN PROMO VIDEO [YouTube](https://youtu.be/tDdkVhmu96o) courtesy of [@farelka9](https://twitter.com/farelka9)
+▲ MOIN Promo Video: [YouTube](https://youtu.be/tDdkVhmu96o) courtesy of [@farelka9](https://twitter.com/farelka9)
 
 
-▲ MOIN WALLPAPER [imgur](http://imgur.com/nBjlnXE) designed by [axllht](https://bitcointalk.org/index.php?action=profile;u=536797)
+▲ MOIN Wallpaper: [imgur](http://imgur.com/nBjlnXE) designed by [axllht](https://bitcointalk.org/index.php?action=profile;u=536797)
 
 
-▲ TRADING TOOLS   [CrypTrader](https://cryptrader.com/charts/ccex/moin/btc)  |  [Arbitrage Opportunities](https://www.cryptopia.co.nz/Arbitrage)
+▲ Trading Tools: [CrypTrader](https://cryptrader.com/charts/ccex/moin/btc)  |  [Arbitrage Opportunities](https://www.cryptopia.co.nz/Arbitrage)
 
 
-▲ TRANSLATIONS   [Chinese](https://bitcointalk.org/index.php?topic=1384343.0)
+▲ Translations: [Chinese](https://bitcointalk.org/index.php?topic=1384343.0)
 
 ![Moin-exchanges](http://i.imgur.com/KVWP1QZ.png)
 
