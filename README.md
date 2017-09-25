@@ -1,7 +1,4 @@
-<img height="400px;" src="http://www.moinmovement.org/uploads/1/7/2/5/17250280/moin-logo-1000x1000_orig.png">
-
-# MOIN
-
+<img height="50px;" src="https://discovermoin.com/images/logo_sml_blk_txt.png">
 
 ![Moin-info](https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2FtAcnr9w.jpg&t=580&c=5PmwK70Wig8oYQ)
 
@@ -37,37 +34,29 @@ Testnet P2P port: 17997 RPC port: 17996
 
 # <img src="https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2F0XW4uuk.png&t=580&c=pFacfwa-1R8Ptg">
 
-# <a href="http://moinmovement.org/">
-  <img height="100px" alt="Community Website" src="https://discovermoin.com/images/logo.png">
-  </a>
+▲ Community Website: [MOIN Movement](http://www.moinmovement.org/)
 
-# <a href="https://discovermoin.herokuapp.com/">
-  <img height="100px" alt="Slack" src="https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2FdLEg2c6.png&t=580&c=2_J4ESRkfhWaWA">
-  </a>
+▲ Slack: [Get an Invite](https://discovermoin.herokuapp.com/)
 
-# <a href="https://bitcointalk.org/index.php?topic=1237881.0">
-  <img height="100px" alt="Bitcointalk Thread" src="https://dualitypost.files.wordpress.com/2017/05/image1.png?w=193&h=97">
-  </a>
+▲ Bitcointalk: [Topic](https://bitcointalk.org/index.php?topic=1237881.0)
 
-# <a href="https://twitter.com/MoinCrypto">
-  <img sheight="100px" alt="Twitter" src="https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2FMLJqPu4.png&t=580&c=8RbbD1ZNhTmYQg">
-  </a>
+▲ Twitter: [@MoinCrypto](https://twitter.com/MoinCrypto)
 
-# <a href="https://kiwiirc.com/client/irc.freenode.net/#moin-crypto">
-  <img height="100px" alt="freenode IRC" src="https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2FamUnKGQ.png&t=580&c=UfvXhDnn7dQdHw">
-  </a>
+▲ IRC (Freenode): [#moin-crypto](http://www.moinmovement.org/chatroom.html)
 
-# <a href="https://www.facebook.com/moinproject/">
-  <img height="100px" alt="Facebook" src="https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2FSTZtC2X.png&t=580&c=VYL3qpVfDZNitg">
-  </a>
+▲ Facebook: [Moin Project](https://www.facebook.com/moinproject/)
+
 
 -------------------
 
 ### Download the Wallet
 
-[![Moin-windows_64](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2F7MtpCQu.png&t=580&c=pbo1HslgMpDgmw)](https://github.com/MOIN/moin/releases/download/v1.2.0.0/moin-1.2.0.0-win64.zip) [![Moin-windows_32](https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2FHGpTxEQ.png&t=580&c=ERjG6b9WhGFalA)](https://github.com/MOIN/moin/releases/download/v1.2.0.0/moin-1.2.0.0-win32.zip) [![Moin-linux_64](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2FgBDGTA8.png&t=580&c=d7tGylJyu8TYbw)](https://github.com/MOIN/moin/releases/download/v1.2.0.0/moin-1.2.0.0-linux64.tar.gz) [![Moin-linux_64](https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2FttTzwzH.png&t=580&c=9JIg7igx2XFXEA)](https://github.com/MOIN/moin/releases/download/v1.2.0.0/moin-1.2.0.0-linux32.tar.gz)
+<a href="https://github.com/MOIN/moin/releases/latest"><img height="120px" alt="MOIN-windows_64" src="https://i.imgur.com/7MtpCQu.png"></a>
+<a href="https://github.com/MOIN/moin/releases/latest"><img height="120px" alt="MOIN-windows_32" src="https://i.imgur.com/HGpTxEQ.png"></a>
+<a href="https://github.com/MOIN/moin/releases/latest"><img height="120px" alt="MOIN-linux_64" src="https://i.imgur.com/gBDGTA8.png"></a>
+<a href="https://github.com/MOIN/moin/releases/latest"><img height="120px" alt="MOIN-linux_32" src="https://i.imgur.com/ttTzwzH.png"></a>
+<a href="https://discovermoin.com/moin-1.2.0.0-osx.dmg"><img height="120px" alt="MOIN-mac" src="https://i.imgur.com/2FM3NIZ.png"></a>
 
-[![Moin-mac](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2F2FM3NIZ.png&t=580&c=3X99_XuxLGNfvg)](https://discovermoin.com/moin-1.2.0.0-osx.dmg) [![Moin-source](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2FwVo6jbI.png&t=580&c=fDT9xcwoz2Stcw)](https://github.com/MOIN/MOIN)
 
 [![Moin-bootstrap](https://camo.githubusercontent.com/879a7f1dcbce38d81dcce02e2bdc4a36038f03e4/68747470733a2f2f692e696d6775722e636f6d2f4b6a4d316a4d702e6a7067)](https://github.com/MOIN/MOIN-Bootstrap)
  [Downloading for the first time? Use the Bootstrap for a fast sync (Mac, Win, Linux)](https://github.com/MOIN/MOIN-Bootstrap)
