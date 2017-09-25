@@ -1,6 +1,6 @@
 <img height="50px;" src="https://discovermoin.com/images/logo_sml_blk_txt.png">
 
-![Moin-info](https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2FtAcnr9w.jpg&t=580&c=5PmwK70Wig8oYQ)
+![Moin-info](https://i.imgur.com/tAcnr9w.jpg)
 
 <a href="https://github.com/MOIN/moin/releases/latest"><img height="120px" alt="MOIN-windows_64" src="https://i.imgur.com/7MtpCQu.png"></a>
 <a href="https://github.com/MOIN/moin/releases/latest"><img height="120px" alt="MOIN-windows_32" src="https://i.imgur.com/HGpTxEQ.png"></a>
@@ -43,7 +43,7 @@ P2P port: 7997 RPC port: 7996
 
 Testnet P2P port: 17997 RPC port: 17996
 
-# <img src="https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2F0XW4uuk.png&t=580&c=pFacfwa-1R8Ptg">
+# <img src="http://i.imgur.com/0XW4uuk.png">
 
 ▲ Community Website: [MOIN Movement](http://www.moinmovement.org/)
 
@@ -58,7 +58,7 @@ Testnet P2P port: 17997 RPC port: 17996
 ▲ Facebook: [Moin Project](https://www.facebook.com/moinproject/)
 
 
-![Moin-links](https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2FX43vOaJ.png&t=580&c=KpWiQA89AWqk9w)
+![Moin-links](http://i.imgur.com/X43vOaJ.png)
 
  ▲ WEBSITE [discovermoin.com](http://discovermoin.com)
 
@@ -83,19 +83,19 @@ Testnet P2P port: 17997 RPC port: 17996
 
 ▲ TRANSLATIONS   [Chinese](https://bitcointalk.org/index.php?topic=1384343.0)
 
-![Moin-exchanges](https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2FKVWP1QZ.png&t=580&c=y_gSUwG8mMFD2w)
+![Moin-exchanges](http://i.imgur.com/KVWP1QZ.png)
 
-[![Livecoin.net](https://www.okchanger.com/payment-systems/preview-file/2108)](https://www.livecoin.net/trade/index?currencyPair=MOIN%2FBTC)
+▲ Livecoin.net  -  [MOIN-BTC](https://www.livecoin.net/trade/index?currencyPair=MOIN%2FBTC)
 
-[![Cryptopia](http://i.imgur.com/Hx9xuJJ.png)](https://www.cryptopia.co.nz/Exchange/?market=MOIN_BTC)
+▲ Cryptopia  -  [MOIN-BTC](https://www.cryptopia.co.nz/Exchange/?market=MOIN_BTC)  |  [MOIN-LTC](https://www.cryptopia.co.nz/Exchange/?market=MOIN_LTC)
 
-[![Coinexchange.io](https://www.coinexchange.io/assets/images/logo_new_2.png)](https://www.coinexchange.io/market/MOIN/BTC)
+▲ Coinexchange.io  -  [MOIN-BTC](https://www.coinexchange.io/market/MOIN/BTC)
 
-[![Novaexchange](https://novaexchange.com/static/novaexchange_logo_big.png)](https://novaexchange.com/market/BTC_MOIN/)
+▲ Novaexchange  -  [MOIN-BTC](https://novaexchange.com/market/BTC_MOIN/)  |  [MOIN-LTC](https://novaexchange.com/market/LTC_MOIN/)
 
-[![Bitsquare.io](https://3.bp.blogspot.com/-GqaHKH1E53A/WAlqgzPw43I/AAAAAAAACb0/Zp3l6NP_CM4y_0-TpN8Buomb85qG9x6ZgCLcB/s1600/bitsquare.png)](https://bitsquare.io/)
+▲ C-Cex  -  [MOIN-BTC](https://c-cex.com/?p=moin-btc)  |  [MOIN-LTC](https://c-cex.com/?p=moin-ltc)  |  [MOIN-USD](https://c-cex.com/?p=moin-ltc)
 
-[![C-Cex](https://www.cryptocompare.com/media/20008/ccex-logo.png)](https://c-cex.com/?p=moin-btc)
+▲ Bisq (Decentralized)  -  [Website](https://bisq.network)
 
 -------------------
 
