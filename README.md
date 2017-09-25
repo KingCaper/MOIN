@@ -2,7 +2,18 @@
 
 ![Moin-info](https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2FtAcnr9w.jpg&t=580&c=5PmwK70Wig8oYQ)
 
-##### ▲ TECHNICAL SPECIFICATIONS
+<a href="https://github.com/MOIN/moin/releases/latest"><img height="120px" alt="MOIN-windows_64" src="https://i.imgur.com/7MtpCQu.png"></a>
+<a href="https://github.com/MOIN/moin/releases/latest"><img height="120px" alt="MOIN-windows_32" src="https://i.imgur.com/HGpTxEQ.png"></a>
+<a href="https://github.com/MOIN/moin/releases/latest"><img height="120px" alt="MOIN-linux_64" src="https://i.imgur.com/gBDGTA8.png"></a>
+<a href="https://github.com/MOIN/moin/releases/latest"><img height="120px" alt="MOIN-linux_32" src="https://i.imgur.com/ttTzwzH.png"></a>
+<a href="https://discovermoin.com/moin-1.2.0.0-osx.dmg"><img height="120px" alt="MOIN-mac" src="https://i.imgur.com/2FM3NIZ.png"></a>
+
+ [Downloading for the first time? Use the Bootstrap for a fast sync (Mac, Win, Linux)](https://github.com/MOIN/MOIN-Bootstrap)
+
+[Addnodes for sync](https://discovermoin.com/nodes.txt)
+
+
+# <img src="https://i.imgur.com/bN0DFFP.png">
 
 Initial Swap Fund: 8,300,000 ▲ MOIN (10:1 with MoinCoin)
 
@@ -46,22 +57,6 @@ Testnet P2P port: 17997 RPC port: 17996
 
 ▲ Facebook: [Moin Project](https://www.facebook.com/moinproject/)
 
-
--------------------
-
-### Download the Wallet
-
-<a href="https://github.com/MOIN/moin/releases/latest"><img height="120px" alt="MOIN-windows_64" src="https://i.imgur.com/7MtpCQu.png"></a>
-<a href="https://github.com/MOIN/moin/releases/latest"><img height="120px" alt="MOIN-windows_32" src="https://i.imgur.com/HGpTxEQ.png"></a>
-<a href="https://github.com/MOIN/moin/releases/latest"><img height="120px" alt="MOIN-linux_64" src="https://i.imgur.com/gBDGTA8.png"></a>
-<a href="https://github.com/MOIN/moin/releases/latest"><img height="120px" alt="MOIN-linux_32" src="https://i.imgur.com/ttTzwzH.png"></a>
-<a href="https://discovermoin.com/moin-1.2.0.0-osx.dmg"><img height="120px" alt="MOIN-mac" src="https://i.imgur.com/2FM3NIZ.png"></a>
-
-
-[![Moin-bootstrap](https://camo.githubusercontent.com/879a7f1dcbce38d81dcce02e2bdc4a36038f03e4/68747470733a2f2f692e696d6775722e636f6d2f4b6a4d316a4d702e6a7067)](https://github.com/MOIN/MOIN-Bootstrap)
- [Downloading for the first time? Use the Bootstrap for a fast sync (Mac, Win, Linux)](https://github.com/MOIN/MOIN-Bootstrap)
-
-[Addnodes for sync](https://discovermoin.com/nodes.txt)
 
 ![Moin-links](https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2FX43vOaJ.png&t=580&c=KpWiQA89AWqk9w)
 
